@@ -5,4 +5,4 @@ In our research work, we attempt to use the generative adversarial networks prin
 rendering of old films and pictures. Our system basically realizes the re-color rendering of black and white video frames, and the rendering 
 results are more reasonable, furthermore, the color configuration confirms to people's normal aesthetic standard.
 
-If we want the trained model for the project you can contact at : saileshkafle47@gmail.com
+If we want the trained model of this project you can contact at : saileshkafle47@gmail.com
